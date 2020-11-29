@@ -3226,3 +3226,31 @@ java.lang.IllegalStateException: Tomcat connector in failed state
 		--- [%15.15] o.s.w.s.DispatcherServlet                : FrameworkServlet 'dispatcherServlet': initialization completed in 24 ms
 2020-11-28 15:55:23.944  WARN LAPTOP-KF5V4KKB
 		--- [%15.15] o.s.w.s.PageNotFound                     : Request method 'POST' not supported
+2020-11-28 16:09:52.217  WARN LAPTOP-KF5V4KKB
+		--- [%15.15] o.s.w.s.PageNotFound                     : Request method 'POST' not supported
+2020-11-28 16:10:22.168  WARN LAPTOP-KF5V4KKB
+		--- [%15.15] o.s.w.s.PageNotFound                     : Request method 'POST' not supported
+2020-11-28 16:10:37.771  WARN LAPTOP-KF5V4KKB
+		--- [%15.15] o.s.w.s.PageNotFound                     : Request method 'POST' not supported
+2020-11-28 16:24:41.129  WARN LAPTOP-KF5V4KKB
+		--- [%15.15] o.s.w.s.PageNotFound                     : Request method 'POST' not supported
+2020-11-28 16:28:54.415  WARN LAPTOP-KF5V4KKB
+		--- [%15.15] o.s.w.s.PageNotFound                     : Request method 'PUT' not supported
+2020-11-28 16:34:00.594  WARN LAPTOP-KF5V4KKB
+		--- [%15.15] o.s.w.s.PageNotFound                     : Request method 'PUT' not supported
+2020-11-28 16:35:21.385  WARN LAPTOP-KF5V4KKB
+		--- [%15.15] o.s.w.s.PageNotFound                     : Request method 'GET' not supported
+2020-11-28 16:35:38.582  WARN LAPTOP-KF5V4KKB
+		--- [%15.15] o.s.w.s.PageNotFound                     : Request method 'GET' not supported
+2020-11-28 17:08:05.684  WARN LAPTOP-KF5V4KKB
+		--- [%15.15] o.s.w.s.PageNotFound                     : Request method 'POST' not supported
+2020-11-28 17:11:21.840  WARN LAPTOP-KF5V4KKB
+		--- [%15.15] o.s.w.s.PageNotFound                     : Request method 'POST' not supported
+2020-11-28 17:53:46.732  WARN LAPTOP-KF5V4KKB
+		--- [%15.15] o.s.w.s.PageNotFound                     : Request method 'GET' not supported
+2020-11-28 19:00:59.096  WARN LAPTOP-KF5V4KKB
+		--- [%15.15] o.s.w.s.PageNotFound                     : Request method 'GET' not supported
+2020-11-28 19:03:00.434  WARN LAPTOP-KF5V4KKB
+		--- [%15.15] o.s.w.s.PageNotFound                     : Request method 'PUT' not supported
+2020-11-28 19:03:38.654  WARN LAPTOP-KF5V4KKB
+		--- [%15.15] o.s.w.s.PageNotFound                     : Request method 'PUT' not supported
